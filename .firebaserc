@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "first1-b8a4c": {
+      "hosting": {
+        "firestarter": [
+          "first1-b8a4c"
+        ]
+      }
+    }
+  }
+}
